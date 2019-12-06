@@ -1,4 +1,6 @@
-.stack-work/
+# Hakyll related
 _cache/
 _site/
-stack.yaml.lock
+
+# Cabal related
+dist-newstyle/
