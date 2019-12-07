@@ -2,5 +2,10 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
++ Email: info at bach dot expert.
+
++ [[https://twitter.com/fuzzy_id][Twitter]]
+
++ [[https://www.linkedin.com/in/thomas-bach-5bb470148/][LinkedIn]] 
+
++ [[https://github.com/fuzzy-id/][GitHub]]
