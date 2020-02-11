@@ -1,5 +1,16 @@
 ---
 title: Let's Get This Party Started
 ---
-This is my first blog entry. We'll see where all this leads to…
- 
+This is my first blog entry. We'll see where it all leads to.
+
+I am a bad frontend developer and basically don't have a clue how CSS
+works. (Well, I have a clue but I didn't wanted to get into it yet.) I
+get along with JavaScript alright, but I do not have much experience
+to write dedicated stuff for the browser. Also, I like static
+websites. Hence, I decided to give [[https://jaspervdj.be/hakyll/][Hakyll]] a try.
+
+So far it has a good feel to it. Nice thing is, that because of [[https://pandoc.org/][Pandoc]]
+I can write blog posts in any markup language.
+
+I initiated this site with Hakyll's stack template and moved it to a
+pure cabal project backed by [[https://nixos.org/nix/][nix]].
