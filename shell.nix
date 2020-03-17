@@ -1,2 +1,5 @@
 { nixpkgs ? import <nixpkgs> {}, compiler ? "ghc865" }:
-(import ./default.nix { inherit nixpkgs compiler; }).env
+let
+  build = nixpkgs.pkgs.haskell.packages.${compiler}.callPackage ./bach-expert.nix { };
+in
+build.env
