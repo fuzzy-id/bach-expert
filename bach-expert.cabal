@@ -1,6 +1,4 @@
 name:               bach-expert
-license:            BSD3
-license-file:       LICENSE
 author:             Thomas Bach
 maintainer:         hacking@babibo.de
 copyright:          2019 Thomas Bach                                        
